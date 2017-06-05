@@ -1,0 +1,40 @@
+{
+  "languages":[
+    {
+      "id" : 1,
+      "name" : "Kotlin",
+      "compiled" : true,
+      "vm" : "JVM"
+    },
+    {
+      "id" : 2,
+      "name" : "Javascript",
+      "compiled" : false,
+      "vm" : "V8"
+    },
+    {
+      "id" : 3,
+      "name" : "Python",
+      "compiled" : true,
+      "vm" : "PyPy"
+    },
+    {
+      "id" : 4,
+      "name" : "Go",
+      "compiled" : true,
+      "vm" : "NO"
+    },
+    {
+      "id" : 5,
+      "name" : "Elixir",
+      "compiled" : true,
+      "vm" : "Erlang VM (BEAM)"
+    },
+    {
+      "id" : 6,
+      "name" : "Java",
+      "compiled" : true,
+      "vm" : "JVM"
+    }
+  ]
+}

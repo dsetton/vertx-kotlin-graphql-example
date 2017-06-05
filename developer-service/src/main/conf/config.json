@@ -1,0 +1,28 @@
+{
+  "developers":[
+    {
+      "id" : 1,
+      "name" : "Alexandre, o Grande"
+    },
+    {
+      "id" : 2,
+      "name" : "Julio César"
+    },
+    {
+      "id" : 3,
+      "name" : "Genghis Khan"
+    },
+    {
+      "id" : 4,
+      "name" : "Nero"
+    },
+    {
+      "id" : 5,
+      "name" : "Carlos Magno"
+    },
+    {
+      "id" : 6,
+      "name" : "Alfred I"
+    }
+  ]
+}
