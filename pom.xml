@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>language-service</module>
+        <module>graphql-service</module>
     </modules>
 
     <properties>

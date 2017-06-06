@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="graphql-service" />
         <module name="language-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="graphql-service" target="1.8" />
       <module name="language-service" target="1.8" />
       <module name="vertx-kotlin-graphql-example" target="1.5" />
     </bytecodeTargetLevel>
