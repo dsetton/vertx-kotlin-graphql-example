@@ -16,7 +16,7 @@
     <properties>
         <exec.mainVerticle>com.github.dsetton.Benchmark</exec.mainVerticle>
         <vertx.version>3.4.1</vertx.version>
-        <kotlin.version>1.1.1</kotlin.version>
+        <kotlin.version>1.1.2</kotlin.version>
     </properties>
 
     <dependencies>
